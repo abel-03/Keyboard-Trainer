@@ -10,9 +10,9 @@
 Отображение статистики во время печати
 Составление heatmap’а клавиш, на которых человек чаще всего ошибается
 
-!(./Image/Interface1.png)
-!(./Image/Interface2.png)
-!(./Image/Interface3.png)
+![](./Image/Interface1.png)
+![](./Image/Interface2.png)
+![](./Image/Interface3.png)
 
 Запуск программы осуществляется следующим образом:
 python3 main.py
