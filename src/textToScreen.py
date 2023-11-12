@@ -1,4 +1,4 @@
-import colors
+import src.colors as colors
 import pygame
 
 def text_to_screen(self, text, coordinates, size = 50,

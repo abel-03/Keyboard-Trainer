@@ -36,6 +36,7 @@ def typingProcess(self):
                             self.score += 1
                         else:
                             self.mistakes += 1
+                            self.input_text = self.input_text[:-1]
                     except:
                         pass
                 if self.text == self.input_text:
